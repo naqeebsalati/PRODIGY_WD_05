@@ -2,7 +2,7 @@ Weather App 🌦️
 A responsive weather app that retrieves real-time weather data based on the user’s current location or a city they input. Built with HTML, CSS, and JavaScript, this app uses the OpenWeatherMap API to display weather conditions, temperature, humidity, and wind speed.
 
 Demo
-You can view a live demo of the project here (Replace this URL with the actual demo link if hosted).
+You can view a live demo of the project here : (https://naqeebsalati.github.io/PRODIGY_WD_05/)
 
 Features:
 - Fetches weather data based on user's current location or city name.
